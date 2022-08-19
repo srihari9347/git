@@ -1,0 +1,12 @@
+git init 
+git config --global user.name" "
+git config --global user.email" "
+git status
+git add
+git commit -m" "
+git branch branchname
+git checkout branchname 
+git checkout -b branchname
+git branch -d branchname
+git remote add origin sshcode
+git clone sshcode
